@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: 470e9339ef2f947fa88a166382d4293a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spread_Left
+    21300002: spread_Middle
+    21300004: spread_Right
+    21300006: spread_3
+    21300008: spread_4
+    21300010: spread_5
+    21300012: spread_6
+    21300014: spread_7
+    21300016: spread_8
+    21300018: spread_9
+    21300020: spread_10
+    21300022: spread_11
+    21300024: spread_12
+    21300026: spread_13
+    21300028: spread_12
+    21300030: spread_13
+    21300032: spread_14
+    21300034: spread_15
+    21300036: spread_16
+    21300038: spread_17
+    21300040: spread_18
+    21300042: spread_19
+    21300044: spread_20
+    21300046: spread_21
+    21300048: spread_22
+    21300050: spread_23
+    21300052: spread_24
+    21300054: spread_25
+    21300056: spread_26
+    21300058: spread_27
+    21300060: spread_28
+    21300062: spread_28
+    21300064: spread_30
+    21300066: spread_29
+    21300068: spread_32
+    21300070: spread_33
+    21300072: spread_34
+    21300074: spread_35
+    21300076: spread_36
+    21300078: spread_37
+    21300080: spread_38
+    21300082: spread_39
+    21300084: spread_40
+    21300086: spread_41
+    21300088: spread_42
+    21300090: spread_43
+    21300092: spread_44
+    21300094: spread_45
+    21300096: spread_46
+    21300098: spread_47
+    21300100: spread_48
+    21300102: spread_49
+    21300104: spread_Pause
+    21300106: spread_51
+    21300108: spread_Play
+    21300110: spread_Pause
+    21300112: spread_54
+    21300114: spread_54
+    21300116: spread_Normal
+    21300118: spread_GameSpeed
+    21300120: spread_50
+    21300122: spread_Share
+    21300124: spread_52
+    21300126: spread_53
+    21300128: spread_53
+    21300130: spread_Help
+    21300132: spread_PauseMenu
+    21300134: spread_57
+    21300136: spread_56
+    21300138: spread_Fast
+    21300140: spread_OutOfControl
+    21300142: spread_Try
+    21300144: spread_Explosion01
+    21300146: spread_Explosion02
+    21300148: spread_Explosion03
+    21300150: spread_AdMessage
+    21300152: spread_AdButton
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spread_Left
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1571
+        width: 120
+        height: 474
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_Middle
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1571
+        width: 164
+        height: 477
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_Right
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1573
+        width: 118
+        height: 471
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1400
+        width: 237
+        height: 645
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_4
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1674
+        width: 349
+        height: 368
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_6
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1829
+        width: 192
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_7
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1829
+        width: 192
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_8
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1829
+        width: 192
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_9
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1612
+        width: 192
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_10
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1612
+        width: 192
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_12
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1612
+        width: 192
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1162
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1162
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1162
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_20
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1162
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_21
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1162
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1031
+        width: 214
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_23
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1031
+        width: 244
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_24
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1099
+        width: 219
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_25
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1029
+        width: 116
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_26
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1269
+        width: 130
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_27
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1136
+        width: 130
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_28
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1030
+        width: 130
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_30
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1031
+        width: 126
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_29
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1028
+        width: 130
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_32
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1033
+        width: 112
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_34
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 775
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_35
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 775
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 775
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_37
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 775
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_38
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 775
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_39
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 775
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_40
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 775
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_41
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 775
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_42
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 775
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_44
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 530
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_45
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 530
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_46
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 530
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_47
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 530
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_48
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 530
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_49
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 530
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_50
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 530
+        width: 192
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1494
+        width: 184
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_52
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1417
+        width: 206
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_PauseMenu
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 29
+        width: 571
+        height: 465
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_57
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1397
+        width: 192
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_56
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1397
+        width: 180
+        height: 270
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_51
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1173
+        width: 154
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_Pause
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 355
+        width: 172
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_Help
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 435
+        width: 388
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_Share
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 403
+        width: 180
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_GameSpeed
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 265
+        width: 203
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_Normal
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 267
+        width: 164
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_Fast
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 265
+        width: 87
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_OutOfControl
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 265
+        width: 240
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_Try
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 299
+        width: 178
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_Explosion01
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1388
+        width: 189
+        height: 214
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_Explosion02
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1388
+        width: 189
+        height: 214
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_Explosion03
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1388
+        width: 189
+        height: 214
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spread_AdButton
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 607
+        width: 274
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
